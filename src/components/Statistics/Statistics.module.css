@@ -1,0 +1,11 @@
+.statisticList {
+    display: flex;
+    flex-direction: column;
+}
+
+.statisticItem {
+    display: flex;
+    align-items: left;
+    font-size: medium;
+    padding-left: 10px;
+}

@@ -1,0 +1,14 @@
+
+.optionBtn {
+        width: 100px;
+        height: 35px;
+        background-color: darkolivegreen;
+        font-weight: 700;
+        margin: 10px;
+        border-radius: 4px;
+        border-style: hidden;
+}
+
+.optionBtn:hover {
+        transform: scale(1.2);
+}
