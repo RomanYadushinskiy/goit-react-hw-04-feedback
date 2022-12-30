@@ -41,7 +41,6 @@
   },
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RomanYadushinskiy/goit-react-hw-02-feedback.git"
