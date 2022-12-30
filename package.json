@@ -43,11 +43,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RomanYadushinskiy/goit-react-hw-02-feedback.git"
+    "url": "git+https://github.com/RomanYadushinskiy/goit-react-hw-04-feedback.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RomanYadushinskiy/goit-react-hw-02-feedback/issues"
+    "url": "https://github.com/RomanYadushinskiy/goit-react-hw-04-feedback/issues"
   }
 }
